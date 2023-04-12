@@ -1,0 +1,216 @@
+
+body {
+  background-color: grey;
+}
+
+.container{
+  width: 300px;
+  height: 100px;
+  border: 7px solid orangered;
+border-radius: 8px;
+text-align: center;
+margin-left: 550px;
+color: maroon;
+line-height: 35px;
+font-size: 27px;
+font-weight: bold;
+box-shadow: 7px 7px purple;
+padding: 5px 0px 5px 0px;
+font-style: italic;
+text-shadow: 2px 1px;
+}
+.midcontainer{
+  border: 8px solid green;
+  width: 1500px;
+  height: 790px;
+  position: relative;
+}
+
+.box1{
+  width: 250px;
+  height: 250px;
+  padding: 20px 5px;
+  color: maroon;
+  background-color: white;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 27px;
+  text-align: center;
+  text-shadow: 2px 1px;
+  border: 7px solid orangered;
+  border-radius: 10px;
+  box-shadow: 7px 7px purple;
+  box-sizing: border-box;
+  position: absolute;
+  top: 0;
+  left: 0;
+
+
+
+}
+.box2{
+  width: 250px;
+  height: 250px;
+  padding: 10px 5px;
+  color: maroon;
+  background-color: white;
+  text-align: center;
+  border: 7px solid orangered;
+  border-radius: 10px;
+  box-shadow: 7px 7px purple;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+ right:0px
+
+}
+img {
+  width: 200px;
+  height: 150px;
+}
+.box3{
+  width: 250px;
+  height: 250px;
+  padding: 10px 5px;
+  color: maroon;
+  background-color: white;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  text-shadow: 2px 1px;
+  border: 7px solid orangered;
+  border-radius: 10px;
+  box-shadow: 7px 7px purple;
+  box-sizing: border-box;
+  position: absolute;
+  top: 0px;
+  margin-right:2500px;
+top:500px ;
+}
+.box4{
+  width: 250px;
+  height: 250px;
+  padding: 10px 5px;
+  color: maroon;
+  background-color: white;
+  text-align: center;
+  text-shadow: 2px 1px;
+  border: 7px solid orangered;
+  border-radius: 10px;
+  box-shadow: 7px 7px purple;
+  box-sizing: border-box;
+  position: absolute;
+ top: 500px;
+ right: 0px;
+}
+.submit{
+  color: rgb(105, 15, 15);
+  font-size: 12px;
+  font-weight: bold;
+  background-color: orangered;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  
+  border-radius: 10px;
+  position: absolute;
+  margin-top: 15px;
+  right: 70px;
+  
+  
+}
+.invite{
+  color: rgb(158, 11, 11);
+  border: 7px solid rgb(255, 94, 0);
+  background-color: rgb(176, 240, 50);
+  font-weight: bold;
+  font-style: italic;
+  padding: 15px 10px 5px 20px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  border-radius: 20px;
+  box-shadow: 7px 7px purple;
+  position: fixed;
+  left: 400px;
+  right: 400px;
+  bottom: 50px;
+}
+
+.offer1{
+  font-size: 25px;
+  padding-left: 10px;
+}
+
+.offer2{
+  font-size:15px;
+  padding-right: 10px;
+}
+
+
+.parent2 {
+  border: 5px solid purple;
+  
+  width: 700px;
+  margin-left: 410px;
+  background-color: green;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.upper {
+  display: flex;
+}
+
+.z {
+  height: 300px;
+  width: 330px;
+  background-color: rgb(239, 239, 125);
+  margin-left: 10px;
+  font-size: 16px;
+}
+
+.upper2 {
+  float: right;
+  margin-left: 10px;
+}
+
+.lower {
+  height: 300px;
+  width: 700px;
+  background-color: rgb(239, 239, 125);
+}
+
+h3 {
+  text-align: center;
+  font-style: italic;
+  margin-top: 10px;
+}
+
+.upper12 {
+  text-align: center;
+  font-style: italic;
+  line-height: 30px;
+}
+
+.upper21 {
+  text-align: center;
+  font-style: italic;
+  line-height: 30px;
+}
+
+.lower3 h3 {
+  padding-top: 10px;
+}
+
+.lower31 {
+  text-align: center;
+  font-style: italic;
+  line-height: 30px;
+}
